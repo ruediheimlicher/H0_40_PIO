@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "H0_32_PIO",
+			"path": "."
+		},
+		{
+			"path": "../../../Elektronik/RC_nRF/RC_nRF_Atmega/RC_nRF24_R_A328_payload"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
